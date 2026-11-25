@@ -407,6 +407,13 @@
   },
   {
     "category": "Images & audio",
+    "name": "Kite",
+    "url": "https://kite.new/",
+    "access": "Hosted",
+    "description": "Collaborative design canvas where AI agents draw editable UI layers over a hosted MCP server."
+  },
+  {
+    "category": "Images & audio",
     "name": "Whisper",
     "url": "https://github.com/openai/whisper",
     "access": "Local",
