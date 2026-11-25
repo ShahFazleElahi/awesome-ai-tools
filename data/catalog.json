@@ -1,6 +1,13 @@
 [
   {
     "category": "Chat & research",
+    "name": "Alter Ego",
+    "url": "https://cloudalterego.cafeboon.com",
+    "access": "Hosted",
+    "description": "Shared memory for Claude, ChatGPT, Gemini and MCP chats; logs questions automatically without account instructions, using plain files in your cloud storage."
+  },
+  {
+    "category": "Chat & research",
     "name": "ChatGPT",
     "url": "https://chatgpt.com/",
     "access": "Hosted",

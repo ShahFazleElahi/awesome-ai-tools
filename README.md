@@ -1,10 +1,10 @@
 # Awesome AI Tools
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB) ![Catalog](https://img.shields.io/badge/Tools-62-059669)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB) ![Catalog](https://img.shields.io/badge/Tools-63-059669)
 
 A curated directory of AI tools for developers, researchers and creators. Find tools by purpose and deployment model, with direct links to official product sites or documentation.
 
-**62 resources across 8 categories.** No API key or external dependency is required to search the catalog.
+**63 resources across 8 categories.** No API key or external dependency is required to search the catalog.
 
 ## Contents
 
@@ -45,6 +45,7 @@ Selected background references: [Hugging Face local apps](https://huggingface.co
 
 | Tool | Access | Use case |
 | --- | --- | --- |
+| [Alter Ego](https://cloudalterego.cafeboon.com) | Hosted | Shared memory for Claude, ChatGPT, Gemini and MCP chats; logs questions automatically without account instructions, using plain files in your cloud storage. |
 | [ChatGPT](https://chatgpt.com/) | Hosted | Conversational writing, coding and analysis; check plan limits. |
 | [Claude](https://claude.ai/) | Hosted | Conversational assistant for writing and code. |
 | [Gemini](https://gemini.google.com/) | Hosted | Multimodal assistant and document-related workflows. |
