@@ -53,6 +53,8 @@ Selected background references: [Hugging Face local apps](https://huggingface.co
 | [Elicit](https://elicit.com/) | Hosted | Literature discovery and evidence extraction. |
 | [Consensus](https://consensus.app/) | Hosted | Search research literature by question. |
 | [Semantic Scholar](https://www.semanticscholar.org/) | Hosted | Find research papers and citation relationships. |
+| [Customer Interview Guide Generator](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-guide-generator/) | Hosted | Free, no-login page that writes 8 open customer interview questions for churn, win-loss, discovery or pricing. |
+| [Survey to Interview Question Converter](https://nar-vardanyan.github.io/frank-mcp/tools/survey-to-interview-converter/) | Hosted | Free, no-login page that turns pasted survey questions into open voice-interview questions. |
 
 ## Coding
 
