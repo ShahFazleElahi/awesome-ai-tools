@@ -432,5 +432,19 @@
     "url": "https://www.audacityteam.org/",
     "access": "Local",
     "description": "Audio editing with optional AI-related plugins."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Customer Interview Guide Generator",
+    "url": "https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-guide-generator/",
+    "access": "Hosted",
+    "description": "Free, no-login page that writes 8 open customer interview questions for churn, win-loss, discovery or pricing."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Survey to Interview Question Converter",
+    "url": "https://nar-vardanyan.github.io/frank-mcp/tools/survey-to-interview-converter/",
+    "access": "Hosted",
+    "description": "Free, no-login page that turns pasted survey questions into open voice-interview questions."
   }
 ]
