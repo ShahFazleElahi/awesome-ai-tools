@@ -56,6 +56,13 @@
     "description": "Find research papers and citation relationships."
   },
   {
+    "category": "Chat & research",
+    "name": "JournalCompass",
+    "url": "https://journalcompass.com/",
+    "access": "Hosted",
+    "description": "Free bilingual journal search across 43,499 journals, with CAS zones, impact factors, review times, APCs and AI journal matching."
+  },
+  {
     "category": "Coding",
     "name": "GitHub Copilot",
     "url": "https://github.com/features/copilot",

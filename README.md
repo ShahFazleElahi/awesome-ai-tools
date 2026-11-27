@@ -53,6 +53,7 @@ Selected background references: [Hugging Face local apps](https://huggingface.co
 | [Elicit](https://elicit.com/) | Hosted | Literature discovery and evidence extraction. |
 | [Consensus](https://consensus.app/) | Hosted | Search research literature by question. |
 | [Semantic Scholar](https://www.semanticscholar.org/) | Hosted | Find research papers and citation relationships. |
+| [JournalCompass](https://journalcompass.com/) | Hosted | Free bilingual journal search with CAS zones, impact factors and AI journal matching. |
 
 ## Coding
 
